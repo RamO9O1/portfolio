@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mailersend": "^2.2.0",
+    "nodemailer": "^6.9.14",
+    "uninstall": "^0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "portfolio-website-master",
+  "description": "This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
